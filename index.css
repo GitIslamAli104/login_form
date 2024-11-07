@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }
+body { display: flex; justify-content: center; align-items: center; height: 100vh; background: linear-gradient(135deg, #00d2ff, #dd1ad3); }
+.login-form { background: #fff; padding: 20px; width: 280px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center; }
+label { font-size: 14px; color: #1a1717; display: block; text-align: left; margin: 10px 0 5px; }
+input { width: 100%; padding: 8px; margin: 5px 0 15px; border: 1px solid #666266; border-radius: 4px; }
+a { font-size: 14px; color: #262928; text-decoration: none; margin: 10px 0; }
+button { width: 100%; padding: 10px; background: linear-gradient(to right, #10c0b7, #a72d8d); border: none; border-radius: 4px; color: #fff; font-size: 16px; cursor: pointer; }
+p { font-size: 14px; color: #535153; }
+p a { color: #00d2ff; text-decoration: none; }
